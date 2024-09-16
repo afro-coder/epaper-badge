@@ -17,3 +17,7 @@ convert image.bmp image.pbm
 - Once you export the image to bmp, run the python script `python fbimage.py image.pbm`
 
 Then copy the hexdump and add it to your script and you'll be able to display images.
+
+Few badges I've made in the past.
+
+![IMG_20240101_001351_946-1](https://github.com/user-attachments/assets/f46d5ebc-25aa-4418-a65f-afdbcc1fc9b6)
